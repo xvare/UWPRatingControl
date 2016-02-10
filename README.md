@@ -1,5 +1,6 @@
 
-Introduction
+#Introduction
+
 This is a rate control bar for uwp(universal windows platform)
 
 You can use this listview with the follow codes:
